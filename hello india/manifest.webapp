@@ -1,0 +1,13 @@
+{
+	"name": "Hello India",
+	"description": "My first firefox os app",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "/icon.png"
+	},
+	"developer" :{
+		"name": "Shobhit Kumar Deepanker",
+		"url": "http://www/skdlogics.blogspot.in"
+	},
+	"default_locale": "en"
+}
